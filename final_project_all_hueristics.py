@@ -9,6 +9,7 @@ Original file is located at
 # CS455 Fianl Projcet
 ## Created By: Garret Wilson
 The purpose of this project is to create a 3X3 Rubik’s cube solver from an initial random state. This will be done using artificial intelligence search algorithms includingBreadth First, Depth First, Iterative Depth First, Greedy Best First, and A*.
+Base classes and search implimentation adapted from Dr. Stansbury's Github Repository https://github.com/richss/CS455-search-python.
 
 # Search Algorith Implimentation
     Implementation of the Rubik's Cube using a list to represent the state.
